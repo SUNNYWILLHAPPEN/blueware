@@ -1,3 +1,0 @@
-[console_scripts]
-blueware-admin = blueware.admin:main
-
